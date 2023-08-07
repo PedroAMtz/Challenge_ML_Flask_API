@@ -1,6 +1,6 @@
 ## Challenge Machine Learning Flask REST API :rocket:
 
-:star: **Challenge objective:** Create a REST API that could recive input sentences in spanish ann return the named entities in each sentence. 
+:star: **Challenge objective:** Create a REST API that could recive input sentences in spanish and return the named entities in each sentence. 
 
 **API characteristics:** 
 
